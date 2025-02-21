@@ -1,7 +1,9 @@
 # Projekt Neve
 
 ## Leírás
-Ez a projekt egy webalkalmazás, amely lehetővé teszi a felhasználók számára, hogy ...
+Ez a projekt egy webalkalmazás, amely lehetővé teszi a felhasználók számára, hogy különböző funkciókat használjanak, mint például:
+- Adatkezelés és megjelenítés
+- Interaktív felhasználói felület
 
 ## Telepítés
 1. Klónozd a repót:
